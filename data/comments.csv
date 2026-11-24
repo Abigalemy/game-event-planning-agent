@@ -1,0 +1,31 @@
+comment_id,event_id,segment,sentiment,tag,text_zh,text_en
+C01,E1,veteran,positive,liked_bonus,加赠50%挺香的，囤了一波金币，周末打高倍场够用了,"The 50% bonus is great. I stocked up on coins, enough for high-stakes tables all weekend."
+C02,E1,casual,positive,liked_bonus,4.99拿6万金币很值，平时根本不舍得买,"60,000 coins for $4.99 is a great deal. Normally I would never spend on coins."
+C03,E1,veteran,negative,regular_packs_now_feel_overpriced,我周三刚在商城买了4.99的包，特惠礼包同价金币多一倍，亏了,"I bought the regular $4.99 pack on Wednesday, and the special bundle gives twice the coins for the same price. I lost out."
+C04,E1,veteran,negative,regular_packs_now_feel_overpriced,以后只等特惠礼包了，商城的包太不划算,From now on I will only wait for the special bundle. The regular shop packs are bad value.
+C05,E1,casual,negative,price_still_too_high,特惠也要4.99，一个礼包够打几局啊,Even the bundle is $4.99. How many matches does one bundle even last?
+C06,E1,casual,negative,coins_not_delivered,付了钱金币没到账！！！客服两天没回,Paid but the coins never arrived!!! Support hasn't replied in two days.
+C07,E1,new,negative,coins_not_delivered,特惠礼包显示购买成功但金币没到，重启也没用,The bundle said the purchase succeeded but the coins never arrived. Restarting didn't help.
+C08,E1,casual,negative,pay_to_win_concern,高倍场全是充钱的大佬，我们这种不充的根本进不去,High-stakes tables are full of big spenders. Non-payers like us can't even get in.
+C09,E1,new,neutral,popup_annoying,一上线就弹窗，关了又弹，烦,Pop-up every time I log in. Close it and it pops up again. Annoying.
+C10,E1,veteran,positive,liked_bonus,这个活动可以常驻吗，每个月来一次也行,Can this be permanent? Even once a month would be fine.
+C11,E1,casual,neutral,price_still_too_high,想买但这个月没钱了，下次吧,Wanted to buy but I'm out of money this month. Next time.
+C12,E1,veteran,negative,purchase_limit,一天只能买一个特惠礼包，想多买都不行,You can only buy one bundle a day. I wanted more and couldn't.
+C13,E1,casual,negative,pay_to_win_concern,充钱的人金币多，可以一直输一直打，不公平,Payers have so many coins they can keep losing and keep playing. Not fair.
+C14,E1,new,positive,liked_bonus,第一次充值就买了特惠礼包，金币够我学一阵子了,My first top-up was the special bundle. The coins will last me a while as I learn.
+C15,E1,casual,neutral,unrelated,能不能出个组队玩法,Can you add a team play mode?
+C16,E2,casual,positive,liked_daily_goal,每天上来赢一把领奖励，挺有动力的,"Log in, win one hand, get the reward. Gives me a reason to play every day."
+C17,E2,veteran,positive,liked_daily_goal,每天领2000金币，够我多打好几局,"2,000 free coins every day means I can play a few more matches."
+C18,E2,new,negative,new_players_cannot_win,打了一晚上一把都没赢，首胜奖励跟我没关系,Played all evening without winning a single hand. The first-win reward has nothing to do with me.
+C19,E2,new,negative,new_players_cannot_win,新手怎么跟老手打啊，能不能按水平匹配,How are newbies supposed to beat veterans? Can matchmaking go by skill level?
+C20,E2,casual,negative,reward_too_small,2000金币打一局低倍场就没了，太少,"2,000 coins are gone after one low-stakes match. Too little."
+C21,E2,veteran,negative,reward_too_small,一天只能领一次，赢了第一把就没动力继续打了,Only once a day. After the first win there's no reason to keep playing.
+C22,E2,casual,negative,suspected_bots,同桌另外三个人出手速度一模一样，肯定是机器人,The other three players all play at exactly the same speed. Definitely bots.
+C23,E2,veteran,negative,suspected_bots,最近机器人好多，是不是为了让人刷首胜,So many bots lately. Are they there so people can farm first wins?
+C24,E2,casual,negative,matchmaking_wait,晚上八点排队要等一分钟,At 8 pm the queue takes a whole minute.
+C25,E2,new,neutral,rules_confusing,规则还没搞懂，分数怎么算的,I still haven't figured out the rules. How is scoring calculated?
+C26,E2,casual,positive,liked_daily_goal,比签到有意思，至少要真的打几局,More interesting than a check-in. At least you actually have to play.
+C27,E2,veteran,neutral,reward_too_small,奖励还行吧，反正每天都要上来打几局,The reward is okay. I log in to play a few matches every day anyway.
+C28,E2,casual,negative,suspected_bots,连续三把都是同一个头像的玩家，太假了,Same avatar player three games in a row. So fake.
+C29,E2,new,negative,new_players_cannot_win,老是被老手秒杀，首胜要等好几天,Veterans keep winning instantly. It takes me days to get a first win.
+C30,E2,casual,neutral,unrelated,求出个好友房，想和朋友一起打,"Please add private rooms, I want to play with friends."
