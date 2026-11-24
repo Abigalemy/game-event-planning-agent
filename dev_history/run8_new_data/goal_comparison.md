@@ -1,0 +1,6 @@
+# Same data, two goals
+
+| Goal | Recommended format | Changes | Verified evidence | Tools used (in order) |
+|---|---|---|---|---|
+| Our goal for the next event is to INCREASE RE... | none |  |  | list_events() -> compare_events(revenue_per_day_during_usd) -> search_feedback(E1, price_still_too_high, 10) -> search_feedback(E1, 10, coins_not_delivered) -> search_feedback(E2, 10, reward_too_small) -> search_feedback(E2, 10, new_players_cannot_win) -> get_event_metrics(E1, ['revenue_per_day_during_usd']) -> get_event_metrics(E2, ['revenue_per_day_during_usd']) |
+| Our goal for the next event is to INCREASE PL... | Daily First Win Bonus | Increase the reward for the first win to make it more valuable for players; Implement a matchmaking system that matches players by skill level to help new players win more often; Add a tutorial or guidance for new players to help them understand the game better | participation_rate, participation_rate, C18, C19, C20, C21 | list_events() -> compare_events(participation_rate) -> search_feedback(E2, new_players_cannot_win, 3) -> search_feedback(E2, 3, reward_too_small) -> search_feedback(E2, 3, liked_daily_goal) -> get_event_metrics(E2, ['participation_rate', 'unique_participants', 'avg_dau_during']) -> get_event_metrics(['participation_rate', 'unique_participants', 'avg_dau_during'], E1) -> submit_proposal |

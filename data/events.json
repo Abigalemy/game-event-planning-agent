@@ -1,0 +1,71 @@
+{
+  "game": "Lucky Match (fictional mobile board game similar to mahjong, 4-player tables; coins are needed to join a table)",
+  "note": "All numbers are fictional and were written for this class project. Money is in USD. 'baseline' means the average of the 14 days before the event.",
+  "events": [
+    {
+      "event_id": "E1",
+      "name": "Weekend Coin Bundle",
+      "name_zh": "周末金币特惠礼包",
+      "format_id": "coin_sale",
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-17",
+      "duration_days": 3,
+      "how_it_works": "A special coin bundle sold only during the event: 60,000 coins for $4.99, about twice the coins of the regular $4.99 shop pack. Limit one per player per day. Regular shop packs are unchanged. Shown as a pop-up at login and in the shop.",
+      "participant_definition": "bought the special bundle at least once",
+      "bundle_price_usd": 4.99,
+      "avg_dau_during": 39420,
+      "avg_dau_baseline": 38150,
+      "active_players_during": 61300,
+      "unique_participants": 2247,
+      "avg_daily_participants": 1010,
+      "revenue_total_during_usd": 31350,
+      "revenue_per_day_baseline_usd": 6120,
+      "avg_daily_payer_rate_during": 0.032,
+      "avg_daily_payer_rate_baseline": 0.024,
+      "first_time_payers": 612,
+      "avg_matches_per_player_per_day_during": 6.1,
+      "avg_matches_per_player_per_day_baseline": 5.8,
+      "d7_retention_during": 0.43,
+      "d7_retention_baseline": 0.42,
+      "complaints_by_category": {
+        "regular_packs_now_feel_overpriced": 31,
+        "price_still_too_high": 22,
+        "coins_not_delivered": 19,
+        "pay_to_win_concern": 14,
+        "other": 10
+      }
+    },
+    {
+      "event_id": "E2",
+      "name": "Daily First Win Bonus",
+      "name_zh": "每日首胜奖励",
+      "format_id": "daily_first_win",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-14",
+      "duration_days": 14,
+      "how_it_works": "The first hand a player wins each day gives 2,000 bonus coins. One reward per day.",
+      "participant_definition": "won at least one hand and claimed the daily bonus",
+      "avg_dau_during": 41280,
+      "avg_dau_baseline": 38410,
+      "active_players_during": 96800,
+      "unique_participants": 71600,
+      "avg_daily_participants": 25590,
+      "revenue_total_during_usd": 85050,
+      "revenue_per_day_baseline_usd": 6240,
+      "avg_daily_payer_rate_during": 0.023,
+      "avg_daily_payer_rate_baseline": 0.024,
+      "first_time_payers": 498,
+      "avg_matches_per_player_per_day_during": 7.4,
+      "avg_matches_per_player_per_day_baseline": 5.9,
+      "d7_retention_during": 0.47,
+      "d7_retention_baseline": 0.42,
+      "complaints_by_category": {
+        "new_players_cannot_win": 131,
+        "reward_too_small": 97,
+        "suspected_bots": 84,
+        "matchmaking_wait": 61,
+        "other": 45
+      }
+    }
+  ]
+}

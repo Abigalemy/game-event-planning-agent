@@ -1,0 +1,41 @@
+{
+  "note": "Candidate formats the agent may recommend. Only formats with a past_event_id have historical data.",
+  "formats": [
+    {
+      "format_id": "coin_sale",
+      "name": "Special Coin Bundle",
+      "mechanic": "A limited-time special coin bundle at a better price, sold alongside the normal shop packs.",
+      "past_event_id": "E1"
+    },
+    {
+      "format_id": "daily_first_win",
+      "name": "Daily First Win Bonus",
+      "mechanic": "Free coins for the first winning hand each day.",
+      "past_event_id": "E2"
+    },
+    {
+      "format_id": "seven_day_checkin",
+      "name": "7-Day Check-in",
+      "mechanic": "Claim one reward per day for 7 days; the best reward on Day 7.",
+      "past_event_id": null
+    },
+    {
+      "format_id": "collect_card_set",
+      "name": "Collect a Card Set",
+      "mechanic": "Collectible cards drop randomly from matches; a full set is exchanged for a big reward.",
+      "past_event_id": null
+    },
+    {
+      "format_id": "friend_referral",
+      "name": "Friend Referral",
+      "mechanic": "Rewards for inviting a new player who then plays a set number of matches.",
+      "past_event_id": null
+    },
+    {
+      "format_id": "limited_tournament",
+      "name": "Limited-Time Tournament",
+      "mechanic": "A weekend bracket with a coin entry fee and ranked prizes.",
+      "past_event_id": null
+    }
+  ]
+}
